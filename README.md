@@ -24,8 +24,8 @@ Hello! My name is Eric Xie, and I'm a 1st Year Engineering Science student @ the
 ![Static Badge](https://img.shields.io/badge/Code-Java-%23fca103?style=flat&logo=java)
 ![Static Badge](https://img.shields.io/badge/Code-C-%23bafc03?style=flat&logo=c)
 ![Static Badge](https://img.shields.io/badge/Code-HTML-%23fcf403?style=flat&logo=html5)
-![Static Badge](https://img.shields.io/badge/Code-CSS-%23fc03db?style=flat&logo=css3)
-![Static Badge](https://img.shields.io/badge/Code-JavaScript-%23b103fc?style=flat&logo=javascript)
+![Static Badge](https://img.shields.io/badge/Code-CSS-%238f1a7f?style=flat&logo=css3)
+![Static Badge](https://img.shields.io/badge/Code-JavaScript-%237c259c?style=flat&logo=javascript)
 </br>
 <!-- tools-->
 ![Static Badge](https://img.shields.io/badge/Tools-React-%2303d3fc?style=flat&logo=react)
@@ -33,9 +33,13 @@ Hello! My name is Eric Xie, and I'm a 1st Year Engineering Science student @ the
 
 
 ## &#x1f4c8; GitHub Stats
-![Epic-Eric's Stats](https://github-readme-stats.vercel.app/api?username=Epic-Eric&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
-![Epic-Eric's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Epic-Eric&theme=gruvbox&hide_border=true)
-![Epic-Eric's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Epic-Eric&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Epic-Eric&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epic-Eric&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" />
+</a>
+
 
 ## 🎸 Hobbies
 Playing [chess](https://www.chess.com/member/bonbon007), ultimate frisbee, and guitar!
