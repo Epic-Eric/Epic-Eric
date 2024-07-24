@@ -34,10 +34,10 @@ Hello! My name is Eric Xie, and I'm a 1st Year Engineering Science student @ the
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Epic-Eric&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Epic-Eric&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" height="200" />
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epic-Eric&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epic-Eric&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" height="200" />
 </a>
 
 
