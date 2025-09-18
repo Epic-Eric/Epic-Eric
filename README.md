@@ -4,18 +4,19 @@
 Hello! My name is Eric Xie, and I'm a 1st Year Engineering Science student @ the University of Toronto.
 
 ## 🚀 Projects
-- [Nail Braille](https://www.youtube.com/watch?v=VYJkUYOZFRU), a speech to braille learning device for visually impaired individuals. (Shad Western 2022)
+- [DUM-E](https://devpost.com/software/dum-e-kgx6at?ref_content=user-portfolio&ref_feature=in_progress), a voice-controlled, Iron Man inspired robotic arm. (Hack the North 2025)
+- [Autotune](https://devpost.com/software/autotune-8sk5xd), an marketplace that allows users to outsource training for finetuning ML models. (GenAI Genesis 2025)
+- [SimulEval](https://github.com/Epic-Eric/SimulEval/tree/main), an evaluation toolkit for simultaneous translation. (MLH x Facebook AI Research 2024)
+- [Viral Insight](https://viralinsight.vercel.app/dashboard), an AI YouTube stat prediction tools to help YouTubers brainstorm viral video titles. (Buildspace N&W 2024)
 - [Vita](https://vitacanada.wixsite.com/2023), a cheap, zero-electricity, and sustainable water filtration device for rural BC indigenous communities. (UBC STEM-LP 2023)
+- [Nail Braille](https://www.youtube.com/watch?v=VYJkUYOZFRU), a speech to braille learning device for visually impaired individuals. (Shad Western 2022)
 
 ## 🔭 I’m currently working on ...
-
-- Visualization tools for Meta's [SimulEval](https://github.com/Epic-Eric/SimulEval/tree/main) - an evaluation toolkit for simultaneous translation. (MLH Fellowship SWE 2024 Summer)
-- Frontend for [Viral Insight](https://viralinsight.vercel.app/dashboard) - an AI model that predicts the "viralness" of YouTube video ideas to help YouTubers brainstorm the catchiest title. (Buildspace N&W 2024 Summer)
+- [KochRL](https://github.com/Epic-Eric/KochRL), a compliant robotic arm by training an impedance controller trained in Isaac Lab. (Syncere)
 
 ## 🌱 I’m currently learning ...
 
-- AI programming with Python (AWS AI & ML Scholarship Program 2024 Summer)
-- CSS & Javascript (MDN Webdocs)
+- VLA, RL, and world models
 
 ## 🔧 Technologies & Tools
 <!-- code-->
