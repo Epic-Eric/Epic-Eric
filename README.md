@@ -1,7 +1,7 @@
 # Hey there! Welcome to Eric's profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 ## 😄 Introduction
-Hello! My name is Eric Xie, and I'm a 1st Year Engineering Science student @ the University of Toronto.
+Hello! My name is Eric Xie, and I'm a 2nd Year Engineering Science student @ the University of Toronto.
 
 ## 🚀 Projects
 - [DUM-E](https://devpost.com/software/dum-e-kgx6at?ref_content=user-portfolio&ref_feature=in_progress), a voice-controlled, Iron Man inspired robotic arm. (Hack the North 2025)
@@ -12,7 +12,7 @@ Hello! My name is Eric Xie, and I'm a 1st Year Engineering Science student @ the
 - [Nail Braille](https://www.youtube.com/watch?v=VYJkUYOZFRU), a speech to braille learning device for visually impaired individuals. (Shad Western 2022)
 
 ## 🔭 I’m currently working on ...
-- [KochRL](https://github.com/Epic-Eric/KochRL), a compliant robotic arm by training an impedance controller trained in Isaac Lab. (Syncere)
+- [KochRL](https://github.com/Epic-Eric/KochRL), a compliant robotic arm by training an impedance controller trained in Isaac Lab. (Syncere AI)
 
 ## 🌱 I’m currently learning ...
 
@@ -43,7 +43,7 @@ Hello! My name is Eric Xie, and I'm a 1st Year Engineering Science student @ the
 
 
 ## 🎸 Hobbies
-Playing [chess](https://www.chess.com/member/bonbon007), ultimate frisbee, and guitar!
+Playing [chess](https://www.chess.com/member/bonbon007), ultimate frisbee, and guitar
 
 <!--
 **Epic-Eric/Epic-Eric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
