@@ -4,6 +4,7 @@
 Hello! My name is Eric Xie, and I'm a 2nd Year Engineering Science student @ the University of Toronto.
 
 ## 🚀 Projects
+- [KochRL](https://github.com/Epic-Eric/KochRL), a compliant robotic arm by training an impedance controller trained in Isaac Lab. (Syncere AI)
 - [DUM-E](https://devpost.com/software/dum-e-kgx6at?ref_content=user-portfolio&ref_feature=in_progress), a voice-controlled, Iron Man inspired robotic arm. (Hack the North 2025)
 - [Autotune](https://devpost.com/software/autotune-8sk5xd), an marketplace that allows users to outsource training for finetuning ML models. (GenAI Genesis 2025)
 - [SimulEval](https://github.com/Epic-Eric/SimulEval/tree/main), an evaluation toolkit for simultaneous translation. (MLH x Facebook AI Research 2024)
@@ -12,7 +13,7 @@ Hello! My name is Eric Xie, and I'm a 2nd Year Engineering Science student @ the
 - [Nail Braille](https://www.youtube.com/watch?v=VYJkUYOZFRU), a speech to braille learning device for visually impaired individuals. (Shad Western 2022)
 
 ## 🔭 I’m currently working on ...
-- [KochRL](https://github.com/Epic-Eric/KochRL), a compliant robotic arm by training an impedance controller trained in Isaac Lab. (Syncere AI)
+- World models with SO101 arms -- stay tuned...
 
 ## 🌱 I’m currently learning ...
 
